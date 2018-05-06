@@ -1,4 +1,5 @@
 # ImgurUpload REST API #
+An Imgur image uploading service that exposes a REST API.
 Uses SpringBoot and H2Database. No need of web and database servers. Just run.
 
 ### Usage ###
@@ -9,4 +10,4 @@ final String clientId = "197c78d5b5e42c6"; //You can change this ClientID
 ```
 
 ### Source ###
-[Link] https://bitbucket.org/trungnh103/leadiqtest/src
+[Link] https://github.com/trungnh103/ImgurUpload
